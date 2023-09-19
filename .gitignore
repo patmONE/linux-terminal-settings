@@ -1,0 +1,9 @@
+# Ignore everything
+*
+
+# But don't ignore directories (to allow traversing them to check for exceptions)
+!*/
+
+# Exceptions
+!.oh-my-zsh/
+!.zshrc
